@@ -13,6 +13,5 @@ Yo, I’m Aayush — AI & Data Science graduate from CMRIT, Bengaluru — part-t
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush93407&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aayush93407&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><img width="1912" height="973" alt="image" src="https://github.com/user-attachments/assets/9151a9fd-7b50-443f-b240-25486b85bad4" />
